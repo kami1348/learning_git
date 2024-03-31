@@ -1,6 +1,2 @@
-
 My fix in 3.txt
- branch_2
 
-My fix in 3.txt
- branch_2
