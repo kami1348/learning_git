@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-Содержимое файла 3.txt на ветке branch_1
-Содержимое файла 3.txt на ветке branch_2
-=======
+
 My fix in 3.txt
->>>>>>> branch_2
+ branch_2
+
+My fix in 3.txt
+ branch_2
